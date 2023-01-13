@@ -65,3 +65,8 @@ yarn-debug.log*
 # Ignore uploaded files in development
 /storage/*
 !/storage/.keep
+/apps/*
+!/apps/.keep
+/tmp/*
+!/tmp/.keep
+docker-compose.override.yml
